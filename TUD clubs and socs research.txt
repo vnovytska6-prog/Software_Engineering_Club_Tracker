@@ -1,0 +1,40 @@
+TUD clubs and socs
+
+
+you don't have to login to see the clubs and socs, but you do if you want to apply for one of them.
+doesn't seem to be any way that they can be closed to new members - does this mean that they just get rid of them 
+
+
+POSITIVES
+filter system
+
+has the locations and times of meeting in the club/soc's page rather than in a completely separate calendar - easier to find and use
+
+shows the committee members 
+
+shows the socials
+
+shows the contact information 
+
+layout is very simplistic 
+
+has an overarching calendar that seems to be up to date 
+
+you can filter the calendar [by soc, by type of event, by event tag]
+
+Marks if the meeting/event is on or off campus on the calendar
+
+includes the event type [competition / training / recreational etc]
+
+
+NEGATIVES
+
+has 2 login buttons visible at most times 
+
+a lot of the socs and clubs share colours in the group calendar which is slightly confusing at a glance 
+
+not every club/soc has a description - this may mean that they don't need to have the committee listed either - or the days / times for meetings - or contact details.
+
+The event calendars for the clubs and socs are completely separate, so you cant see all of them at the same time. 
+
+You cant send a message through the site to the club or soc
